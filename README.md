@@ -9,6 +9,9 @@ Se respetó 100% la identidad e implementación de la marca de **<Laboratoria\>*
 # B A C K L O G
 
 * Diseño del flujo de Laborateca
+
+![logo.png](assets/images/content001-01.jpg)
+
 * Diseño de los logotipos par las categorías definidas por UX
        * HSE
        * FE
@@ -49,7 +52,7 @@ Propuesta de isotipos para las especialidades de FE y UX
 
 * Isotipo para Front End
 
-![front-end.png](assets/icons/front-end.png)
+![front-end.png](assets/icons/iconos ux-02.png)
 
 * Isotipo para UX
 
