@@ -3,12 +3,11 @@
 ### DOCUMENTACIÓN UI
 
 ***
-
-Se respetó 100% la identidad e implementación de la marca de **<Laboratoria\>**
+El equipo de UI trabajó respetando al 100% la identidad e implementación de la marca de **<Laboratoria\>**
 
 # B A C K L O G
 
-* Diseño del flujo de Laborateca
+* Primero se realizó el diseño del flujo de la información de Laborateca
 
 ![logo.png](assets/images/content001-01.jpg)
 
@@ -25,7 +24,7 @@ Se respetó 100% la identidad e implementación de la marca de **<Laboratoria\>*
       * Blog
       * Repositorio
 * Realización de Mockups
-* Diseño de lootipo de **<Laborateca\>**
+* Diseño de logotipo de **<Laborateca\>**
 * Cambio del estilo en CSS acorde a **<Laboratoria\>**
 * Integración de logos e isotipos
 * Crear diseños para las redes sociales de **<Laborateca\>**
@@ -34,11 +33,11 @@ Se respetó 100% la identidad e implementación de la marca de **<Laboratoria\>*
 
 ![logo.png](assets/images/logo.png)
 
-* Modificar el tema de WordPress *MyWiki*
+* Se modificó el tema de WordPress *MyWiki*
 
 ![tema.jpg](assets/images/tema.jpg)
 
-Se trabajo en el editor de CSS desde el panel de Admin
+Se trabajó en el editor de CSS desde el panel de Administración
 
 ![labo.jpg](assets/images/labo.jpg)
 
@@ -65,5 +64,5 @@ Propuesta de isotipos para las especialidades de FE y UX
 
 * Scrum Master: Abril Juárez Soriano
 * Angélica Fuentes
-* Jocelyn Esquivel
 * Karina Mosqueda
+* Jocelyn Esquivel
