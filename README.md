@@ -52,7 +52,7 @@ Propuesta de isotipos para las especialidades de FE y UX
 
 * Isotipo para Front End
 
-![front-end.png](assets/icons/iconos ux-02.png)
+![front-end.png](assets/icons/iconos-ux-02.png)
 
 * Isotipo para UX
 
