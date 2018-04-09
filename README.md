@@ -2,6 +2,10 @@
 
 ### DOCUMENTACIÓN UI
 
+Descripción del proceso del área de UI dentro del proyecto de Laborateca una biblioteca digital para las alumnas de Laboratoria donde se pueden consultar y compartir materiales como PDF, tutoriales y blogs de las distintas especialidades.
+
+![30442609_10215650915569998_5706933598376951808_o](https://user-images.githubusercontent.com/32865535/38527214-3a01618c-3c1f-11e8-863d-c535496e0955.jpg)
+
 ***
 El equipo de UI trabajó respetando al 100% la identidad e implementación de la marca de **<Laboratoria\>**
 
