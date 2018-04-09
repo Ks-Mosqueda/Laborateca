@@ -6,7 +6,7 @@ Descripción del proceso del área de UI dentro del proyecto de Laborateca una b
 
 ![30442609_10215650915569998_5706933598376951808_o](https://user-images.githubusercontent.com/32865535/38527214-3a01618c-3c1f-11e8-863d-c535496e0955.jpg)
 
-### Empresa para la que se desarrollo el proyecto: **<Laboratoria>**
+### Empresa para la que se desarrollo el proyecto: **<Laboratoria\>**
 ***
 El equipo de UI trabajó respetando al 100% la identidad e implementación de la marca de **<Laboratoria\>**
 
