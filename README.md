@@ -4,7 +4,7 @@
 
 Descripción del proceso del área de UI dentro del proyecto de Laborateca una biblioteca digital para las alumnas de Laboratoria donde se pueden consultar y compartir materiales como PDF, tutoriales y blogs de las distintas especialidades.
 
-![propuestas-laborateca](https://user-images.githubusercontent.com/32865535/38584329-98b3c460-3cdb-11e8-9f96-9d95e350b4e3.jpg)
+![propuestas-laborateca](https://user-images.githubusercontent.com/32865535/38584678-99784992-3cdc-11e8-809b-500e3c836609.jpg)
 
 ### Empresa para la que se desarrollo el proyecto: **<Laboratoria\>**
 ***
