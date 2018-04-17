@@ -1,4 +1,4 @@
-## L A B O R A T E C A
+# L A B O R A T E C A
 
 ### DOCUMENTACIÓN UI
 
