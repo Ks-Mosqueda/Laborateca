@@ -10,7 +10,7 @@ Descripción del proceso del área de UI dentro del proyecto de Laborateca una b
 ***
 El equipo de UI trabajó respetando al 100% la identidad e implementación de la marca de **<Laboratoria\>**
 
-# B A C K L O G
+## B A C K L O G
 
 * Primero se realizó el diseño del flujo de la información de Laborateca
 
@@ -34,7 +34,7 @@ El equipo de UI trabajó respetando al 100% la identidad e implementación de la
 * Integración de logos e isotipos
 * Crear diseños para las redes sociales de **<Laborateca\>**
 
-# P r o c e s o
+## P r o c e s o
 
 ![logo.png](assets/images/logo.png)
 
